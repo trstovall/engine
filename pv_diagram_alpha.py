@@ -39,7 +39,7 @@ w_out = 8.314 * th * log(v4 / v3)
 q_h = 29.1 * (th - tc) + w_out
 w = p2 * (v3 - v2) + w_out - p1 * (v4 - v1) - w_in
 
-efficiency = 100. * w / (w_in + q_h)
+efficiency = 100. * w / q_h
 
 plt.plot(*(
     c1 + ('blue',)
