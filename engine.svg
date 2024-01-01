@@ -28,10 +28,10 @@
      inkscape:document-units="mm"
      inkscape:zoom="1.6204616"
      inkscape:cx="318.42779"
-     inkscape:cy="414.69666"
+     inkscape:cy="415.31376"
      inkscape:window-width="1916"
      inkscape:window-height="2041"
-     inkscape:window-x="-9"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1"
@@ -43,7 +43,7 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g55">
+       id="g1">
       <g
          id="g2"
          transform="matrix(0.21524431,0,0,0.21524431,48.810086,170.33153)">
@@ -516,7 +516,7 @@
            sodipodi:role="line"
            style="stroke-width:0.215244"
            x="98.847229"
-           y="205.09438"
+           y="205.09436"
            id="tspan31">COMPRESSOR</tspan></text>
       <text
          xml:space="preserve"
@@ -575,7 +575,7 @@
            sodipodi:role="line"
            style="stroke-width:0.215244"
            x="119.85593"
-           y="168.55145"
+           y="168.55144"
            id="tspan39">PUMP</tspan></text>
       <text
          xml:space="preserve"
@@ -664,7 +664,7 @@
            style="stroke-width:0.215244"
            x="132.4758"
            y="-75.772095"
-           id="tspan48">COLD WATER / AIR --&gt;</tspan></text>
+           id="tspan48">COLD WATER + AIR --&gt;</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:3.03733px;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.215244;stroke-dasharray:none;stroke-opacity:1"
@@ -700,7 +700,7 @@
            style="stroke-width:0.215244"
            x="-167.07262"
            y="141.04044"
-           id="tspan51">HOT WATER / AIR --&gt;</tspan></text>
+           id="tspan51">HOT WATER + AIR --&gt;</tspan></text>
       <text
          xml:space="preserve"
          style="font-size:3.03733px;fill:#0000ff;fill-opacity:1;stroke:#0000ff;stroke-width:0.215244;stroke-dasharray:none;stroke-opacity:1"
@@ -745,6 +745,17 @@
            x="114.74813"
            y="81.115723"
            id="tspan54">&lt;-- HOT AIR</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:3.52778px;fill:#008000;fill-opacity:1;stroke:#0000ff;stroke-width:0.215244;stroke-dasharray:none;stroke-opacity:1"
+         x="83.074669"
+         y="70.35981"
+         id="text52-7-2"><tspan
+           sodipodi:role="line"
+           id="tspan52-9-0"
+           style="font-size:3.52778px;fill:#00ffff;stroke-width:0.215244"
+           x="83.074669"
+           y="70.35981">~  STOVALL HEAT ENGINE  ~</tspan></text>
     </g>
   </g>
 </svg>
