@@ -20,9 +20,9 @@ I'm hoping for significant friction.  A perfectly efficient engine could be hard
 > I could be mistaken, but I keep thinking this looks like "a sterling engine with extra steps", and none of those steps are going to improve efficiency? Or were you getting extra energy input that I'm missing?
 > - u/MeshNets @ reddit
 
-A [Stirling cycle](https://en.wikipedia.org/wiki/Stirling_cycle) is (ΔT = 0, ΔQ < 0 | ΔT > 0, ΔQ > 0 | ΔT = 0, ΔQ > 0 | ΔT < 0, ΔQ < 0).  You could implement one with a (trompe @ T_C -> copper loop @ T_H -> airlift pump @ T_H -> copper loop @ T_C) loop. The [alpha configuration](https://github.com/trstovall/engine/blob/main/pv_diagram_alpha.png) I documented is very similar. It is a (trompe (water @ T_C, air @ T_H) -> airlift pump @ (water @ T_H, air @ T_C)) loop, and it also follows the Stirling cycle, albeit isobaric instead of isochoric.  The isochoric and isobaric phases are inefficient, especially for air.
+A [Stirling cycle](https://en.wikipedia.org/wiki/Stirling_cycle) is (ΔT = 0, ΔQ < 0 | ΔT > 0, ΔQ > 0 | ΔT = 0, ΔQ > 0 | ΔT < 0, ΔQ < 0).  You could implement one with a (trompe @ T~C -> copper loop @ T~H -> airlift pump @ T~H -> copper loop @ T~C) loop. The [alpha configuration](https://github.com/trstovall/engine/blob/main/pv_diagram_alpha.png) I documented is very similar. It is a (trompe (water @ T~C, air @ T~H) -> airlift pump @ (water @ T~H, air @ T~C)) loop, and it also follows the Stirling cycle, albeit isobaric instead of isochoric.  The isochoric and isobaric phases are inefficient, especially for air.
 
-The [beta configuration](https://github.com/trstovall/engine/blob/main/pv_diagram_beta.png) combines the Stirling cycle with the [Brayton cycle](https://en.wikipedia.org/wiki/Brayton_cycle), (ΔT > 0, ΔQ = 0 | ΔT > 0, ΔQ > 0 | ΔT < 0, ΔQ = 0 | ΔT < 0, ΔQ < 0) cycle, to form the [Carnot cycle](https://en.wikipedia.org/wiki/Carnot_cycle), (ΔT = 0, ΔQ < 0 | ΔT > 0, ΔQ = 0 | ΔT = 0, ΔQ > 0 | ΔT < 0, ΔQ = 0).  My design is a (trompe (isothermal) @ T_C -> compressor (isentropic) -> (isothermal) airlift pump @ T_H -> expander (isentropic)) loop.
+The [beta configuration](https://github.com/trstovall/engine/blob/main/pv_diagram_beta.png) combines the Stirling cycle with the [Brayton cycle](https://en.wikipedia.org/wiki/Brayton_cycle), (ΔT > 0, ΔQ = 0 | ΔT > 0, ΔQ > 0 | ΔT < 0, ΔQ = 0 | ΔT < 0, ΔQ < 0) cycle, to form the [Carnot cycle](https://en.wikipedia.org/wiki/Carnot_cycle), (ΔT = 0, ΔQ < 0 | ΔT > 0, ΔQ = 0 | ΔT = 0, ΔQ > 0 | ΔT < 0, ΔQ = 0).  My design is a (trompe (isothermal) @ T~C -> compressor (isentropic) -> (isothermal) airlift pump @ T~H -> expander (isentropic)) loop.
 
 > do you have specific examples of the input and output forces? It's a heat delta? Or where are the mechanical inputs/outputs exactly?
 > - u/MeshNets @ reddit
@@ -38,8 +38,8 @@ Ideally none.  How much voltage is needed to drive electrons through a wire?  Re
 
 There is no limit.
 
-The [Pressure-Volume diagram](https://github.com/trstovall/engine/blob/main/pv_diagram_beta.png) illustrates the various calculations for each journey through the cycle by 1 mole of air starting at (at T_C, 1 bar) with a net output of 576.28 J.  If the system cycles 1 mole of air per second, then the power should be 576.28 W.
+The [Pressure-Volume diagram](https://github.com/trstovall/engine/blob/main/pv_diagram_beta.png) illustrates the various calculations for each journey through the cycle by 1 mole of air starting at (at T~C, 1 bar) with a net output of 576.28 J.  If the system cycles 1 mole of air per second, then the power should be 576.28 W.
 
-Ideal efficiency is 100% * (1 - T_C/T_H) = 26.81%.  Of course, parasitic losses must be considered.  However, real world efficiencies over 20% should be expected.
+Ideal efficiency is 100% * (1 - T~C/T~H) = 26.81% for T~C = 0&deg;C, T~H = 100&deg;C.  Of course, parasitic losses must be considered.  However, real world efficiencies over 20% should be expected for that configuration.
 
 It should be straightforward to both scale down or scale up the system.
