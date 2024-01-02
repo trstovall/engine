@@ -31,7 +31,7 @@ Ideally none.  How much voltage is needed to drive electrons through a wire?  Re
 
 There is no limit.
 
-The [Pressure-Volume diagram](https://github.com/trstovall/engine/blob/main/pv_diagram_beta.png) illustrates the various calculations for each journey through the cycle by 1 mole of air starting at ($T_C$ = $0^{\circ}$C, 1 bar), goes to ($T_H$ = $100^{\circ}$C, 3 bar) and emits net output of 576.28 J.  If the system cycles 1 mole of air per second, then the power should be 576.28 W.
+The [Pressure-Volume diagram](https://github.com/trstovall/engine/blob/main/pv_diagram_beta.png) illustrates the various calculations for each journey through the cycle by 1 mole of air starting at ($T_C$ = 0°C, 1 bar), goes to ($T_H$ = 100°C, 3 bar) and emits net output of 576.28 J.  If the system cycles 1 mole of air per second, then the power should be 576.28 W.
 
 Ideal efficiency is $100\% * (1 - T_C/T_H) = 26.81\%$.  Of course, parasitic losses must be considered.  However, real world efficiencies over 20% should be expected for that configuration.
 
