@@ -107,4 +107,48 @@ That ought to do it.
 
 46. [[SFM FNAF] They'll Find You - FNaF Song by Griffinilla/Fandroid [2018 REMAKE]](https://www.youtube.com/watch?v=Dy4aMyXIzTU)
 
-47.
+47. [pov: you wanted to listen to the best fnaf songs (playlist)](https://www.youtube.com/watch?v=24k0c3rbUng)
+
+48. [Rick and Morty | Snake Jazz (Official Video)](https://www.youtube.com/watch?v=ahgcD1xjRiQ)
+
+49. [Billie Eilish - you should see me in a crown (Official Video By Takashi Murakami)](https://www.youtube.com/watch?v=coLerbRvgsQ)
+
+50. [ONE HOUR OF SNAKE JAZZ RADIO (lyrics)](https://www.youtube.com/watch?v=v26_pOpZDw0&t=5s)
+
+51. [Live Forever - Kotomi & Ryan Elder (Full Song) | Rick and Morty | adult swim](https://www.youtube.com/watch?v=v26_pOpZDw0)
+
+52. [Rick Vs Rick Prime Fight Music (Only Music Fight) - Rick And Morty Season 7 Unreleased Music](https://www.youtube.com/watch?v=v26_pOpZDw0)
+
+53. [Oh Death](https://www.youtube.com/watch?v=v26_pOpZDw0)
+
+54. [Jen Titus - O, Death // Lyrics](https://www.youtube.com/watch?v=v26_pOpZDw0)
+
+55. [EPIC COUNTRY | ''Do Right, Fear No Man'' by The Last Knife Fighter](https://www.youtube.com/watch?v=v26_pOpZDw0)
+
+56. [Rok Nardin - Where is Your God Now](https://www.youtube.com/watch?v=v26_pOpZDw0)
+
+57. [... And The Sky Turned Black](https://www.youtube.com/watch?v=v26_pOpZDw0)
+
+58. [Marilyn Manson - Resident Evil Main Title Theme (Corp. Umbrella) (SX Long)](https://www.youtube.com/watch?v=v26_pOpZDw0)
+
+59. [Enemy - Imagine Dragons // jinx // Arcane [AMV]](https://www.youtube.com/watch?v=-Wde3mYaa_I)
+
+666.  [Casting Crowns - Voice of Truth (Official Lyric Video)](https://www.youtube.com/watch?v=9cKm_mYVPQE)
+
+7.  [The White Stripes - Seven Nation Army (Official Music Video)](https://www.youtube.com/watch?v=0J2QdDbelmY)
+
+8.  [First Time Hearing Rage Against the Machine! - "Killing In The Name" REACTION](https://www.youtube.com/watch?v=W-LZ32_75z0)
+
+9.  [Rage Against The Machine - Killing In The Name - 1993](https://www.youtube.com/watch?v=8de2W3rtZsA)
+
+10. [Rage Against The Machine - Bulls On Parade (Official HD Video)](https://www.youtube.com/watch?v=3L4YrGaR8E4)
+
+11. [Rage Against The Machine - Sleep Now in the Fire (Official HD Video)](https://www.youtube.com/watch?v=kl4wkIPiTcY)
+
+12. [Rage Against The Machine - Testify (Official HD Video)](https://www.youtube.com/watch?v=Q3dvbM6Pias)
+
+13. [Pink Floyd - Empty Spaces - What shall we do now?](https://www.youtube.com/watch?v=CLpR0oBOKWQ)
+
+14. [Godsmack - I Stand Alone (Official Music Video)](https://www.youtube.com/watch?v=OYjZK_6i37M)
+
+15. [Godsmack - Voodoo (Official Music Video)](https://www.youtube.com/watch?v=9SSUQxGjZZ4)
