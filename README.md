@@ -1,4 +1,6 @@
 
+**X-Caliber F1 - a stovall heat engine.**
+
 # FAQ
 
 I'm currently working on a scaled down model that fits on a desk. It has ~64 vertical cylinders housing rotating turbines and connected by various drains and vents.
