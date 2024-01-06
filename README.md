@@ -23,7 +23,7 @@ The [beta configuration](https://github.com/trstovall/engine/blob/main/pv_diagra
 
 > do you have specific examples of the input and output forces? It's a heat delta? Or where are the mechanical inputs/outputs exactly?
 
-The heat engine converts a heat delta into work.  Each parcel of the working gas is a heat sponge.  The sponge is sqeezed by the isothermal compression phase and expanded by the isothermal expansion phase.  The temperature differential is maintained by cooling the cold water and / or heating the hot water.  Mechanically, the pump and compressor do negative work while turbine and compressor do positive work.
+The heat engine converts a heat delta into work.  Each parcel of the working gas is a heat sponge.  The sponge is squeezed by the isothermal compression phase and expanded by the isothermal expansion phase.  The temperature differential is maintained by cooling the cold water and / or heating the hot water.
 
 > How much heat delta is needed to start seeing the effect?
 
